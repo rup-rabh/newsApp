@@ -1,5 +1,5 @@
 # newsApp
-
+link : https://8a7c6e9b.newsapp-frontend.pages.dev/
 ## Description
 newsApp is a web application that provides users with the latest news updates. It aggregates news from various sources and presents them in a user-friendly interface.
 
